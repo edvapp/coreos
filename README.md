@@ -1,0 +1,4 @@
+coreos
+======
+
+Files for CoreOS
